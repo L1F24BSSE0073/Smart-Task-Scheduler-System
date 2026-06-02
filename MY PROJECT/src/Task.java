@@ -1,5 +1,6 @@
 import java.time.LocalDate;
 class Task {
+    int num;
     int id;
     String title;
     String category;
