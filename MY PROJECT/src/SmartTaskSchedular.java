@@ -80,6 +80,7 @@ public class SmartTaskSchedular extends JFrame {
         inputPanel.add(categoryField);
         inputPanel.add(priorityBox);
         inputPanel.add(deadlineField);
+        int sfsd;
 
         searchField = new JTextField();
         inputPanel.add(searchField);
